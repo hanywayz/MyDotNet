@@ -1,0 +1,9 @@
+/Users/hanywayzllc/Desktop/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/Ch02/02_03/Begin/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.deps.json
+/Users/hanywayzllc/Desktop/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/Ch02/02_03/Begin/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.runtimeconfig.json
+/Users/hanywayzllc/Desktop/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/Ch02/02_03/Begin/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.runtimeconfig.dev.json
+/Users/hanywayzllc/Desktop/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/Ch02/02_03/Begin/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.dll
+/Users/hanywayzllc/Desktop/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/Ch02/02_03/Begin/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.pdb
+/Users/hanywayzllc/Desktop/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/Ch02/02_03/Begin/MyDotnet/obj/Debug/netcoreapp1.1/MyDotnet.csproj.CoreCompileInputs.cache
+/Users/hanywayzllc/Desktop/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/Ch02/02_03/Begin/MyDotnet/obj/Debug/netcoreapp1.1/MyDotnet.AssemblyInfo.cs
+/Users/hanywayzllc/Desktop/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/Ch02/02_03/Begin/MyDotnet/obj/Debug/netcoreapp1.1/MyDotnet.dll
+/Users/hanywayzllc/Desktop/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/Ch02/02_03/Begin/MyDotnet/obj/Debug/netcoreapp1.1/MyDotnet.pdb
